@@ -80,7 +80,22 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-3/A_Star_Algorithm.cpp">
+		<Unit filename="C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/increment_and_sum.cpp">
+			<Option target="cpp_learning"/>
+		</Unit>
+		<Unit filename="C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/increment_and_sum.h">
+			<Option target="cpp_learning"/>
+		</Unit>
+		<Unit filename="C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/sample.cpp">
+			<Option target="cpp_learning"/>
+		</Unit>
+		<Unit filename="C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/sample.h">
+			<Option target="cpp_learning"/>
+		</Unit>
+		<Unit filename="C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/vect_add_one.cpp">
+			<Option target="cpp_learning"/>
+		</Unit>
+		<Unit filename="C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/vect_add_one.h">
 			<Option target="cpp_learning"/>
 		</Unit>
 		<Unit filename="C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/CMakeLists.txt">

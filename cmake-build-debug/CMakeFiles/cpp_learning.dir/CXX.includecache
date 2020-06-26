@@ -6,17 +6,27 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-3/A_Star_Algorithm.cpp
-algorithm
+C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/increment_and_sum.cpp
+vect_add_one.h
+C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/vect_add_one.h
+
+C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/increment_and_sum.h
+vector
 -
-fstream
--
+
+C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/sample.cpp
 iostream
 -
 vector
 -
-string
--
-sstream
+increment_and_sum.h
+C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/increment_and_sum.h
+
+C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/vect_add_one.cpp
+vect_add_one.h
+C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/vect_add_one.h
+
+C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/vect_add_one.h
+vector
 -
 

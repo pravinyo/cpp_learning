@@ -122,32 +122,86 @@ cpp_learning/fast:
 	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/build
 .PHONY : cpp_learning/fast
 
-Lesson-3/A_Star_Algorithm.obj: Lesson-3/A_Star_Algorithm.cpp.obj
+Lesson-4/increment_and_sum.obj: Lesson-4/increment_and_sum.cpp.obj
 
-.PHONY : Lesson-3/A_Star_Algorithm.obj
+.PHONY : Lesson-4/increment_and_sum.obj
 
 # target to build an object file
-Lesson-3/A_Star_Algorithm.cpp.obj:
-	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.obj
-.PHONY : Lesson-3/A_Star_Algorithm.cpp.obj
+Lesson-4/increment_and_sum.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.obj
+.PHONY : Lesson-4/increment_and_sum.cpp.obj
 
-Lesson-3/A_Star_Algorithm.i: Lesson-3/A_Star_Algorithm.cpp.i
+Lesson-4/increment_and_sum.i: Lesson-4/increment_and_sum.cpp.i
 
-.PHONY : Lesson-3/A_Star_Algorithm.i
+.PHONY : Lesson-4/increment_and_sum.i
 
 # target to preprocess a source file
-Lesson-3/A_Star_Algorithm.cpp.i:
-	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.i
-.PHONY : Lesson-3/A_Star_Algorithm.cpp.i
+Lesson-4/increment_and_sum.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.i
+.PHONY : Lesson-4/increment_and_sum.cpp.i
 
-Lesson-3/A_Star_Algorithm.s: Lesson-3/A_Star_Algorithm.cpp.s
+Lesson-4/increment_and_sum.s: Lesson-4/increment_and_sum.cpp.s
 
-.PHONY : Lesson-3/A_Star_Algorithm.s
+.PHONY : Lesson-4/increment_and_sum.s
 
 # target to generate assembly for a file
-Lesson-3/A_Star_Algorithm.cpp.s:
-	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.s
-.PHONY : Lesson-3/A_Star_Algorithm.cpp.s
+Lesson-4/increment_and_sum.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.s
+.PHONY : Lesson-4/increment_and_sum.cpp.s
+
+Lesson-4/sample.obj: Lesson-4/sample.cpp.obj
+
+.PHONY : Lesson-4/sample.obj
+
+# target to build an object file
+Lesson-4/sample.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj
+.PHONY : Lesson-4/sample.cpp.obj
+
+Lesson-4/sample.i: Lesson-4/sample.cpp.i
+
+.PHONY : Lesson-4/sample.i
+
+# target to preprocess a source file
+Lesson-4/sample.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.i
+.PHONY : Lesson-4/sample.cpp.i
+
+Lesson-4/sample.s: Lesson-4/sample.cpp.s
+
+.PHONY : Lesson-4/sample.s
+
+# target to generate assembly for a file
+Lesson-4/sample.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.s
+.PHONY : Lesson-4/sample.cpp.s
+
+Lesson-4/vect_add_one.obj: Lesson-4/vect_add_one.cpp.obj
+
+.PHONY : Lesson-4/vect_add_one.obj
+
+# target to build an object file
+Lesson-4/vect_add_one.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj
+.PHONY : Lesson-4/vect_add_one.cpp.obj
+
+Lesson-4/vect_add_one.i: Lesson-4/vect_add_one.cpp.i
+
+.PHONY : Lesson-4/vect_add_one.i
+
+# target to preprocess a source file
+Lesson-4/vect_add_one.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.i
+.PHONY : Lesson-4/vect_add_one.cpp.i
+
+Lesson-4/vect_add_one.s: Lesson-4/vect_add_one.cpp.s
+
+.PHONY : Lesson-4/vect_add_one.s
+
+# target to generate assembly for a file
+Lesson-4/vect_add_one.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.s
+.PHONY : Lesson-4/vect_add_one.cpp.s
 
 # Help Target
 help:
@@ -158,9 +212,15 @@ help:
 	@echo ... rebuild_cache
 	@echo ... cpp_learning
 	@echo ... edit_cache
-	@echo ... Lesson-3/A_Star_Algorithm.obj
-	@echo ... Lesson-3/A_Star_Algorithm.i
-	@echo ... Lesson-3/A_Star_Algorithm.s
+	@echo ... Lesson-4/increment_and_sum.obj
+	@echo ... Lesson-4/increment_and_sum.i
+	@echo ... Lesson-4/increment_and_sum.s
+	@echo ... Lesson-4/sample.obj
+	@echo ... Lesson-4/sample.i
+	@echo ... Lesson-4/sample.s
+	@echo ... Lesson-4/vect_add_one.obj
+	@echo ... Lesson-4/vect_add_one.i
+	@echo ... Lesson-4/vect_add_one.s
 .PHONY : help
 
 

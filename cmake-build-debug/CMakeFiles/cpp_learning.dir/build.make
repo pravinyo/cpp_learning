@@ -56,32 +56,62 @@ include CMakeFiles/cpp_learning.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/cpp_learning.dir/flags.make
 
-CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.obj: CMakeFiles/cpp_learning.dir/flags.make
-CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.obj: ../Lesson-3/A_Star_Algorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learning.dir\Lesson-3\A_Star_Algorithm.cpp.obj -c "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-3\A_Star_Algorithm.cpp"
+CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj: CMakeFiles/cpp_learning.dir/flags.make
+CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj: ../Lesson-4/sample.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learning.dir\Lesson-4\sample.cpp.obj -c "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\sample.cpp"
 
-CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-3\A_Star_Algorithm.cpp" > CMakeFiles\cpp_learning.dir\Lesson-3\A_Star_Algorithm.cpp.i
+CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\sample.cpp" > CMakeFiles\cpp_learning.dir\Lesson-4\sample.cpp.i
 
-CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-3\A_Star_Algorithm.cpp" -o CMakeFiles\cpp_learning.dir\Lesson-3\A_Star_Algorithm.cpp.s
+CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\sample.cpp" -o CMakeFiles\cpp_learning.dir\Lesson-4\sample.cpp.s
+
+CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj: CMakeFiles/cpp_learning.dir/flags.make
+CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj: ../Lesson-4/vect_add_one.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learning.dir\Lesson-4\vect_add_one.cpp.obj -c "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\vect_add_one.cpp"
+
+CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\vect_add_one.cpp" > CMakeFiles\cpp_learning.dir\Lesson-4\vect_add_one.cpp.i
+
+CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\vect_add_one.cpp" -o CMakeFiles\cpp_learning.dir\Lesson-4\vect_add_one.cpp.s
+
+CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.obj: CMakeFiles/cpp_learning.dir/flags.make
+CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.obj: ../Lesson-4/increment_and_sum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learning.dir\Lesson-4\increment_and_sum.cpp.obj -c "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\increment_and_sum.cpp"
+
+CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\increment_and_sum.cpp" > CMakeFiles\cpp_learning.dir\Lesson-4\increment_and_sum.cpp.i
+
+CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\increment_and_sum.cpp" -o CMakeFiles\cpp_learning.dir\Lesson-4\increment_and_sum.cpp.s
 
 # Object files for target cpp_learning
 cpp_learning_OBJECTS = \
-"CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.obj"
+"CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj" \
+"CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj" \
+"CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.obj"
 
 # External object files for target cpp_learning
 cpp_learning_EXTERNAL_OBJECTS =
 
-cpp_learning.exe: CMakeFiles/cpp_learning.dir/Lesson-3/A_Star_Algorithm.cpp.obj
+cpp_learning.exe: CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj
+cpp_learning.exe: CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj
+cpp_learning.exe: CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.obj
 cpp_learning.exe: CMakeFiles/cpp_learning.dir/build.make
 cpp_learning.exe: CMakeFiles/cpp_learning.dir/linklibs.rsp
 cpp_learning.exe: CMakeFiles/cpp_learning.dir/objects1.rsp
 cpp_learning.exe: CMakeFiles/cpp_learning.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable cpp_learning.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable cpp_learning.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\cpp_learning.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
