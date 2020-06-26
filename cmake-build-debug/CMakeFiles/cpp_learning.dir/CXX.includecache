@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-3/A_Star_Algorithm.cpp
+algorithm
+-
+fstream
+-
+iostream
+-
+vector
+-
+string
+-
+sstream
+-
+
