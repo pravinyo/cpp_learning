@@ -56,18 +56,18 @@ include CMakeFiles/cpp_learning.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/cpp_learning.dir/flags.make
 
-CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj: CMakeFiles/cpp_learning.dir/flags.make
-CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj: ../Lesson-4/sample.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learning.dir\Lesson-4\sample.cpp.obj -c "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\sample.cpp"
+CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.obj: CMakeFiles/cpp_learning.dir/flags.make
+CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.obj: ../Lesson-4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\cpp_learning.dir\Lesson-4\main.cpp.obj -c "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\main.cpp"
 
-CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\sample.cpp" > CMakeFiles\cpp_learning.dir\Lesson-4\sample.cpp.i
+CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\main.cpp" > CMakeFiles\cpp_learning.dir\Lesson-4\main.cpp.i
 
-CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\sample.cpp" -o CMakeFiles\cpp_learning.dir\Lesson-4\sample.cpp.s
+CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Pravin Tripathi\CLionProjects\cpp_learning\Lesson-4\main.cpp" -o CMakeFiles\cpp_learning.dir\Lesson-4\main.cpp.s
 
 CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj: CMakeFiles/cpp_learning.dir/flags.make
 CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj: ../Lesson-4/vect_add_one.cpp
@@ -97,14 +97,14 @@ CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.s: cmake_force
 
 # Object files for target cpp_learning
 cpp_learning_OBJECTS = \
-"CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj" \
+"CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.obj" \
 "CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj" \
 "CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.obj"
 
 # External object files for target cpp_learning
 cpp_learning_EXTERNAL_OBJECTS =
 
-cpp_learning.exe: CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj
+cpp_learning.exe: CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.obj
 cpp_learning.exe: CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj
 cpp_learning.exe: CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.obj
 cpp_learning.exe: CMakeFiles/cpp_learning.dir/build.make

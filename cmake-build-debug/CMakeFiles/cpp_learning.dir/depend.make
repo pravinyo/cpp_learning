@@ -4,8 +4,8 @@
 CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.obj: ../Lesson-4/increment_and_sum.cpp
 CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.obj: ../Lesson-4/vect_add_one.h
 
-CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj: ../Lesson-4/increment_and_sum.h
-CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj: ../Lesson-4/sample.cpp
+CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.obj: ../Lesson-4/increment_and_sum.h
+CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.obj: ../Lesson-4/main.cpp
 
 CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj: ../Lesson-4/vect_add_one.cpp
 CMakeFiles/cpp_learning.dir/Lesson-4/vect_add_one.cpp.obj: ../Lesson-4/vect_add_one.h

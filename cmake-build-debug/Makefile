@@ -149,32 +149,32 @@ Lesson-4/increment_and_sum.cpp.s:
 	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/increment_and_sum.cpp.s
 .PHONY : Lesson-4/increment_and_sum.cpp.s
 
-Lesson-4/sample.obj: Lesson-4/sample.cpp.obj
+Lesson-4/main.obj: Lesson-4/main.cpp.obj
 
-.PHONY : Lesson-4/sample.obj
+.PHONY : Lesson-4/main.obj
 
 # target to build an object file
-Lesson-4/sample.cpp.obj:
-	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.obj
-.PHONY : Lesson-4/sample.cpp.obj
+Lesson-4/main.cpp.obj:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.obj
+.PHONY : Lesson-4/main.cpp.obj
 
-Lesson-4/sample.i: Lesson-4/sample.cpp.i
+Lesson-4/main.i: Lesson-4/main.cpp.i
 
-.PHONY : Lesson-4/sample.i
+.PHONY : Lesson-4/main.i
 
 # target to preprocess a source file
-Lesson-4/sample.cpp.i:
-	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.i
-.PHONY : Lesson-4/sample.cpp.i
+Lesson-4/main.cpp.i:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.i
+.PHONY : Lesson-4/main.cpp.i
 
-Lesson-4/sample.s: Lesson-4/sample.cpp.s
+Lesson-4/main.s: Lesson-4/main.cpp.s
 
-.PHONY : Lesson-4/sample.s
+.PHONY : Lesson-4/main.s
 
 # target to generate assembly for a file
-Lesson-4/sample.cpp.s:
-	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/sample.cpp.s
-.PHONY : Lesson-4/sample.cpp.s
+Lesson-4/main.cpp.s:
+	$(MAKE) -f CMakeFiles\cpp_learning.dir\build.make CMakeFiles/cpp_learning.dir/Lesson-4/main.cpp.s
+.PHONY : Lesson-4/main.cpp.s
 
 Lesson-4/vect_add_one.obj: Lesson-4/vect_add_one.cpp.obj
 
@@ -215,9 +215,9 @@ help:
 	@echo ... Lesson-4/increment_and_sum.obj
 	@echo ... Lesson-4/increment_and_sum.i
 	@echo ... Lesson-4/increment_and_sum.s
-	@echo ... Lesson-4/sample.obj
-	@echo ... Lesson-4/sample.i
-	@echo ... Lesson-4/sample.s
+	@echo ... Lesson-4/main.obj
+	@echo ... Lesson-4/main.i
+	@echo ... Lesson-4/main.s
 	@echo ... Lesson-4/vect_add_one.obj
 	@echo ... Lesson-4/vect_add_one.i
 	@echo ... Lesson-4/vect_add_one.s
