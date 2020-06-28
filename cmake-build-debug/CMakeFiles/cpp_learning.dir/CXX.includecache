@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/increment_and_sum.h
-vector
--
-
 C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/main.cpp
 iostream
 -
 vector
 -
-increment_and_sum.h
-C:/Users/Pravin Tripathi/CLionProjects/cpp_learning/Lesson-4/increment_and_sum.h
+unordered_map
+-
+string
+-
 
